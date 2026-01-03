@@ -160,7 +160,3 @@ Credit risk models must be fair across protected classes. We evaluate:
 ## Author
 
 Elian Jose | Data Analyst | ITUS Capital Advisors
-
-## License
-
-MIT
