@@ -1,0 +1,29 @@
+# Data files (too large for GitHub)
+data/raw/*.csv
+data/processed/*.parquet
+data/features/*.parquet
+
+# Models
+models/*.joblib
+models/*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MLflow
+mlruns/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
